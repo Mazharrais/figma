@@ -1,0 +1,182 @@
+body{
+    background-color:rgb(243, 237, 237);
+}
+
+
+h4{
+    
+    position: absolute;
+    left: 190px;
+    top: -9px;
+    color:#cdc5c5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-container{
+background-color: rgb(101, 101, 203);
+margin: 30px 180px;
+width: 1200px;
+height: 85vh;
+position: relative;
+}
+.Password-recovery{
+    font-size: 25px;
+    background-color:#fff;
+    border-radius: 2px solid black;
+    border-radius: 5px;
+    width: 500px;
+    height: 630px;
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+p{
+    position: absolute;
+    padding-top: 60px;
+    padding-left: 20px;
+    font-size: 12px;
+    list-style: none;
+    text-decoration: none;
+}
+
+form{
+    position: relative;
+}
+.email-text{
+    position: absolute;
+    top: 45px;
+    font-size: 17px;
+    font-weight: lighter;
+    
+}
+.email-field{
+    position: absolute;
+    top: 150px;
+    margin-left: 20px;
+    padding: 12px;
+    padding-left: 35px;
+    width: 80%;
+}
+.pic{
+    position: absolute;
+    margin-top: 162px;
+    left: 30px;
+}
+/* .password-text{
+    position: absolute;
+    top: 130px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.password-field{
+    position: absolute;
+    top: 230px;
+    margin-left: 20px;
+    padding: 7px;
+    width: 85%;
+}
+.pic1{
+    position: absolute;
+    margin-top: 237px;
+    left: 430px;
+} */
+.email-p{
+    color:#cdc5c5;
+    font-size: 13px;
+    margin-top: 145px;   
+}
+.button-purple{
+    position: absolute;
+    margin-top: 260px;
+    left: 18px;
+    width: 92%;
+    padding: 12px;
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color:rgb(101, 101, 203) ;
+    color: #fff;
+}
+.link{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 270px;
+    left: 135px;
+}
+.link a{
+    text-decoration: none;
+    color: red;
+}
+
+
+
+/* .link{
+    position: absolute;
+    margin-top:330px ;
+    left: 190px;
+}
+.link2{
+    position: absolute;
+    top:2px ;
+    left: 100px;
+    color: red;
+    text-decoration: none;
+} */
+.line-para{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 320px;
+    left: 175px;
+    color:#cdc5c5;
+}
+.btns{
+    position: relative;
+    margin-top: 440px;
+    left: 75px;
+}
+.btns1{
+ text-decoration: none;
+ width: 90px;
+ 
+ 
+}
+.btns2{
+ text-decoration: none;
+ width: 140px;
+ 
+   }
+.btns3{
+    text-decoration: none;
+    width: 90px;
+}
+.btns4{
+    text-decoration: none;
+    width: 90px;
+}
+.last-text a{
+    text-decoration: none;
+}
+.last-text{
+    color: #241f1f7b;
+}
+.oval-shap{
+    position: absolute;
+    left: 580px;
+    padding-top: 90px;
+}
+.move1{
+ text-decoration: none;
+ position: absolute;
+ right: 670px;
+ width: 15%;
+ padding: 7px;
+ border: 3px solid white;
+ border-radius: 5px;
+ background-color:rgb(101, 101, 203) ;
+ color: #fff;
+}

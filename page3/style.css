@@ -1,0 +1,174 @@
+body{
+    background-color:rgb(243, 237, 237);
+}
+
+h4{
+    position: absolute;
+    left: 190px;
+    top: -9px;
+    color:#cdc5c5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.first-container{
+background-color: rgb(101, 101, 203);
+margin: 30px 180px;
+width: 1200px;
+height: 85vh;
+position: relative;
+}
+.sign-in{
+    background-color:#fff;
+    border-radius: 2px solid black;
+    border-radius: 5px;
+    width: 500px;
+    height: 630px;
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+p{
+    position: absolute;
+    padding-top: 60px;
+    padding-left: 20px;
+    font-size: 12px;
+    list-style: none;
+    text-decoration: none;
+}
+.link{
+    text-decoration: none;
+}
+form{
+    position: relative;
+}
+.email-text{
+    position: absolute;
+    top: 50px;
+    font-size: 12px;
+    font-weight: lighter;
+    
+}
+.email-field{
+    position: absolute;
+    top: 150px;
+    margin-left: 20px;
+    padding: 7px;
+    padding-left: 35px;
+    width: 80%;
+}
+.email-p{
+    color:#cdc5c5;
+    font-size: 13px;
+    margin-top: 130px;   
+}
+.pic{
+    position: absolute;
+    margin-top: 156px;
+    left: 30px;
+}
+.password-text{
+    position: absolute;
+    top: 150px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.password-field{
+    position: absolute;
+    top: 250px;
+    margin-left: 20px;
+    padding: 7px;
+    width: 85%;
+}
+.email-p1{
+    color:#cdc5c5;
+    font-size: 13px;
+    margin-top: 230px;   
+}
+.pic1{
+    position: absolute;
+    margin-top: 257px;
+    left: 430px;
+}
+.button-purple{
+    position: absolute;
+    margin-top: 325px;
+    left: 18px;
+    width: 90%;
+    padding: 7px;
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color:rgb(101, 101, 203) ;
+    color: #fff;
+}
+/* .link2{
+    position: absolute;
+    margin-top:310px ;
+    left: 190px;
+    color: blue;
+    text-decoration: none;
+} */
+.blue-tick{
+    position: absolute;
+    margin-top: 363px;
+    color:#cdc5c5;
+    font-size: 10px;
+    left: 25px;
+}
+.blue-tick1{
+    position: absolute;
+    margin-top: 310px;
+    color:#cdc5c5;
+    font-size: 10px;
+    left: 35px;
+}
+.blue-tick1 a{
+    text-decoration: none;
+}
+.line-para{
+    position: absolute;
+    margin-top: 355px;
+    left: 175px;
+    color:#cdc5c5;
+}
+.btns{
+    position: relative;
+    margin-top: 470px;
+    left: 75px;
+}
+.btns1{
+ text-decoration: none;
+ width: 90px;
+ 
+ 
+}
+.btns2{
+ text-decoration: none;
+ width: 140px;
+ 
+   }
+.btns3{
+    text-decoration: none;
+    width: 90px;
+}
+.btns4{
+    text-decoration: none;
+    width: 90px;
+}
+.last-text a{
+    text-decoration: none;
+}
+.last-text{
+    color: #241f1f7b;
+}
+.oval-shap{
+    position: absolute;
+    left: 580px;
+    padding-top: 90px;
+}
+
